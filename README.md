@@ -27,5 +27,5 @@ I-LIT Tech provides professional biostatistics, data collection, IT consultancy,
 - Address: 40, Nairobi
 
 ## Live URL
-[Add your deployed URL here after hosting]
+[View website] (https://web-week-8-project-tzi90gcmn-walusakasamuels-projects.vercel.app/contact.html)
 
